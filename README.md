@@ -8,5 +8,5 @@ Copy the `.env_example` to `.env` and edit it to fill the missing values
 
 #### Run through [`docker-compose`](https://docs.docker.com/compose/install/)
 ```bash
-$ docker compose up --build server
+$ docker compose up --build
 ```
